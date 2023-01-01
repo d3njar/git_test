@@ -1,3 +1,0 @@
-Hello world!
-
- This is just a test to check out how GIT and GitHub work.
