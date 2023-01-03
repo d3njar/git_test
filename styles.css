@@ -1,15 +1,25 @@
-*, *:before, *:after {
-    box-sizing: border-box;
+body {
+    height:100%;
+    margin:0;
+    padding:0
 }
-
-p {
-    font-size: 80px;
-    font-style: italic;
-}
-
 h1 {
-    color: rgb(47, 34, 71);
-    font-size: 50px;
+    background-color: aquamarine;
+    margin:0;
+    padding:0
+}
+
+p{
+    background-color: aquamarine;
+}
+
+.header {
+    padding: 60px;
+    text-align: center;
+    background-color: aquamarine;
+    color: #0F0700;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 input[type=text] {
@@ -25,4 +35,8 @@ input[type=password] {
 .rounded-input {
     padding: 10px;
     border-radius: 10px;
+}
+
+* {
+    background-color: #F0F8FF;
 }
