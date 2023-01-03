@@ -32,10 +32,20 @@ input[type=text] {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+input[type=text]:focus{
+    outline: 0;
+    border-color: #925DCF;
+}
+
 input[type=password] {
     padding: 10px;
     margin: 10px 0;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type=password]:focus{
+    outline: 0;
+    border-color: #925DCF;
 }
 
 .rounded-input {
