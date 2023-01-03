@@ -1,12 +1,15 @@
 .lotsofboxes {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: slategray;
 }
 
 p {
     font-size: 80px;
+    font-style: italic;
 }
 
 h1 {
     color: rgb(47, 34, 71);
+    font-size: 50px;
 }
