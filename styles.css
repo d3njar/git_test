@@ -48,6 +48,10 @@ input[type=password]:focus{
     border-color: #925DCF;
 }
 
+label {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .rounded-input {
     padding: 10px;
     border-radius: 10px;
