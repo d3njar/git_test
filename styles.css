@@ -77,3 +77,7 @@ form {
     margin-left: 70px;
     margin-top: 30px;
 }
+
+.form-submit-button:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
