@@ -4,24 +4,28 @@ body {
     padding:0
 }
 h1 {
-    background-color: #CC8B53;
+    background-color: #6E6E6E;
     margin:0;
     padding:0
 }
 
-p{
-    background-color: #CC8B53;
+.headpar{
+    background-color: #6E6E6E;
+}
+
+.copyright{
+    color: black;
 }
 
 em{
-    background-color: #CC8B53;
+    background-color: #6E6E6E;
 }
 
 .header {
     padding: 60px;
     text-align: center;
-    background-color: #CC8B53;
-    color: #0F0700;
+    background-color: #6E6E6E;
+    color: #FFFFFF;
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -34,7 +38,7 @@ input[type=text] {
 
 input[type=text]:focus{
     outline: 0;
-    border-color: #925DCF;
+    border-color: #FFFFFF;
 }
 
 input[type=password] {
@@ -45,7 +49,7 @@ input[type=password] {
 
 input[type=password]:focus{
     outline: 0;
-    border-color: #925DCF;
+    border-color: #FFFFFF;
 }
 
 label {
@@ -62,14 +66,14 @@ form {
 }
 
 * {
-    background-color: #5d9acf;
+    background-color: #6E6E6E;
 }
 
 .form-submit-button {
-	background: #0066A2;
-	color: white;
+	background: #BAFF39;
+	color: black;
 	border-style: outset;
-	border-color: #3374AC;
+	border-color: #BAFF39;
 	height: 50px;
 	width: 100px;
 	font-family: Arial, Helvetica, sans-serif;
@@ -81,7 +85,7 @@ form {
 }
 
 .form-submit-button:hover {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(255, 255, 255, 0.5);
 }
 
 .footer{
@@ -89,15 +93,15 @@ form {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #CC8B53;
-    color: #0F0700;
+    background-color: #6E6E6E;
+    color: white;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .topnav{
     overflow: hidden;
-    background-color: #5d9acf;
+    background-color: #6E6E6E;
 }
 
 .topnav a {
@@ -112,8 +116,8 @@ form {
 }
 
 .topnav a.active {
-    background-color: #2196f3;
-    color: white;
+    background-color: #BAFF39;
+    color: black;
 }
 
 .topnav input[type=text] {
@@ -138,4 +142,8 @@ form {
     .topnav input[type=text] {
         border: 1px solid #ccc;
     }
+}
+
+::placeholder{
+    color: rgba(255, 255, 255, 0.3);
 }
