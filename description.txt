@@ -1,6 +1,2 @@
 This is a test repo. Learning git and how to work with it. On WSL2 and on Windows 11.
-Testing stuff!
-Experimental!
-Another Line hey!
-test line 
-test test 123
+Which turned into a little project website.
