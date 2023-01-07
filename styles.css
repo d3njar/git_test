@@ -170,3 +170,9 @@ form {
 .noradio {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.imprint {
+    padding-top: 100px;
+    text-align: left;
+    font-size: 20px;
+}
