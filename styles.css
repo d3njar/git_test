@@ -164,6 +164,10 @@ form {
     background-color: #555555;
 }
 
+input[type=radio] {
+    margin-bottom: 20px;
+}
+
 .yesradio {
     font-family: Arial, Helvetica, sans-serif;
 }
