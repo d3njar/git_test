@@ -177,3 +177,11 @@ form {
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+form {
+    border-style: solid;
+    border-color: #FFFFFF;
+    border-width: 20px;
+    border-radius: 25px;
+    border: 2px solid #FFFFFF;
+}
