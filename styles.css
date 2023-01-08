@@ -161,6 +161,7 @@ form {
 
 .customerquestion {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #555555;
 }
 
 .yesradio {
@@ -184,4 +185,9 @@ form {
     border-width: 20px;
     border-radius: 25px;
     border: 2px solid #FFFFFF;
+    background-color: #555555;
+}
+
+label {
+    background-color: #555555;
 }
