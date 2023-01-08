@@ -191,3 +191,11 @@ form {
 label {
     background-color: #555555;
 }
+
+.yourmessagebox {
+    resize: none;
+    width: 620px;
+    height: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
