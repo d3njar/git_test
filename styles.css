@@ -15,6 +15,7 @@ h1 {
 
 .copyright{
     color: black;
+    font-size: 20px;
 }
 
 em{
@@ -177,10 +178,14 @@ input[type=radio] {
 }
 
 .imprint {
-    padding-top: 100px;
     text-align: left;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
+   border-style: solid;
+    border: 2px solid #FFFFFF;
+    border-width: 2px;
+    border-radius: 25px;
+    background-color: #555555;
 }
 
 form {
