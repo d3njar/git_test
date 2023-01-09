@@ -178,13 +178,13 @@ input[type=radio] {
 }
 
 .imprint {
-    text-align: left;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
-   border-style: solid;
+    border-style: solid;
     border: 2px solid #FFFFFF;
     border-width: 2px;
     border-radius: 25px;
+    text-align: center;
     background-color: #555555;
 }
 
@@ -207,4 +207,28 @@ label {
     height: 200px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
+}
+
+.testtechp {
+    background-color: #555555;
+}
+
+.adressp {
+    background-color: #555555;
+}
+
+.companyp {
+    background-color: #555555;
+}
+
+.testofficep {
+    background-color: #555555;
+}
+
+.teststreetp {
+    background-color: #555555;
+}
+
+.testcityp {
+    background-color: #555555;
 }
